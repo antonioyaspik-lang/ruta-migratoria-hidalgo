@@ -1,0 +1,22 @@
+{
+  "name": "RUTA MIGRATORIA HIDALGO",
+  "short_name": "RutaMigHgo",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#0B1F3A",
+  "description": "Asesoría migratoria INM en Hidalgo para personas extranjeras y empleadores.",
+  "icons": [
+    {
+      "src": "/assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
